@@ -14,7 +14,7 @@ TypeScript and Graphic library(GopherGfx)
 
 ## Run the project
 
-### Deployed link: https://solswe.github.io/space-minesweeper/ 
+### Deployed link: https://solswe.github.io/Space-minesweeper/
 
 ### Or you can run the project on your computer by following steps:
 
